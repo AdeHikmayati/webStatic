@@ -47,7 +47,7 @@ body{
 font: 16px/28px arial, sans-serif;
 background-color: #eaeaea;
 color :#333;
-background-image: url(moroccan-flower.png)
+background-image: url(img/moroccan-flower.png)
 }
 .topbar{
     position: fixed;
@@ -75,7 +75,7 @@ background-image: url(moroccan-flower.png)
 .twitter{
     width: 200px;
     height: 200px;
-    background-image: url(twitterribon.png);
+    background-image: url(img/twitterribon.png);
     background-repeat: no-repeat;
     display: inline-block;
     text-indent: -9999px;
@@ -109,7 +109,7 @@ background-image: url(moroccan-flower.png)
 }
 .hero{
     height :320px;
-    background-image: url(backimg.jpg);
+    background-image: url(img/backimg.jpg);
     background-size: cover;
     background-position:0 -200px ;
     border-top: 5px solid salmon;
